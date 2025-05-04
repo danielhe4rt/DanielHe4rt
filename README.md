@@ -37,12 +37,12 @@ I've also streaming [LiveCoding sessions at Twitch.tv](https://twitch.tv/danielh
 ## Detailed information
 
 * **Name**: Daniel Reis
-* **Age**: 25
+* **Age**: 26
 * **Living in**: São Paulo - SP, Brazil
 * **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS - Azure
 * **Learning**: Rust and Databases
 * **University**: Nope. Only have one I.T associate degree.
-* **Prizes:** Microsoft MVP and Twitch Partner
+* **Prizes:** Microsoft MVP, Twitch Partner and Jetbrains Community Creator
 
 ## Curiosities about me
 
